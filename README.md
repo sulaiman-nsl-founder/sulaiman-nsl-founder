@@ -7,7 +7,7 @@
 <br>
 
 [🔗LinkedIn](https://www.linkedin.com/in/mohamed-sulaiman-nsl/) •
-[🌐 Portfolio](YOUR_PORTFOLIO_URL) •
+[🌐 Portfolio](https://github.com/sulaiman-nsl-founder/sulaiman-nsl-founde) •
 [📧Email](mailto:sulaimannslfounder@gmail.com)
 [💻 GitHub](https://github.com/sulaiman-nsl-founder)
 </div>
@@ -21,7 +21,7 @@ I'm an IoT and Embedded Systems developer focused on building real-world product
 - 🔧 Developing smart connected devices
 - 📡 Working with BLE, WiFi, UART, SPI, and I2C
 - 🤖 Building intelligent pet-care products
-- 🎨 Designing enclosures using Fusion 360
+- 🎨 Designing CAD models(3D) using Fusion 360
 - 🌐 Learning React and Full-Stack Development
 - 🚀 Goal: Become a Product Engineer and Full-Stack IoT Developer
 
@@ -43,7 +43,9 @@ I'm an IoT and Embedded Systems developer focused on building real-world product
 - BLE
 - WiFi
 - MQTT
-
+- LORA
+- ESP-NOW
+  
 ### Programming
 
 - C/C++
@@ -52,8 +54,8 @@ I'm an IoT and Embedded Systems developer focused on building real-world product
 
 ### Software & Tools
 
-- Arduino IDE
 - PlatformIO
+- Arduino IDE
 - VS Code
 - Git
 - Fusion 360
@@ -182,7 +184,7 @@ I'm actively seeking:
 
 ### 🚀 Want to build something awesome together?
 
-**[Reach Out](mailto:kdharanikumar6789@gmail.com)** | **[Check My Portfolio](https://kdharanikumar-portfolio.netlify.app/)**
+**[Reach Out](mailto:sulaimannslfounder@gmail.com)** | **[Check My Portfolio](https://github.com/sulaiman-nsl-founder/sulaiman-nsl-founde)**
 
 <br>
 
