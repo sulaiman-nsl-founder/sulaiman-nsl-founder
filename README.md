@@ -8,7 +8,7 @@
 
 [🔗LinkedIn](https://www.linkedin.com/in/mohamed-sulaiman-nsl/) •
 [🌐 Portfolio](https://github.com/sulaiman-nsl-founder/sulaiman-nsl-founde) •
-[📧Email](mailto:sulaimannslfounder@gmail.com)
+[📧Email](mailto:sulaimannslfounder@gmail.com)•
 [💻 GitHub](https://github.com/sulaiman-nsl-founder)
 </div>
 
